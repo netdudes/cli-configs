@@ -25,7 +25,7 @@ zstyle ':completion:*' original true
 zstyle ':completion:*' preserve-prefix '//[^/]##/'
 zstyle ':completion:*' select-prompt %SScrolling active: current selection at %p%s
 zstyle ':completion:*' squeeze-slashes true
-zstyle :compinstall filename '/Users/adria/.zshrc-ad'
+zstyle :compinstall filename '~/.zshrc-custom'
 
 autoload -Uz compinit
 compinit
